@@ -1,0 +1,23 @@
+{
+  "name": "aws-technical-presentation",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "prebuild": "npx tsx scripts/pre-build.ts",
+    "build": "slidev build slides/eng/slides.md",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "eng": "slidev slides/eng/slides.md --open"
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.0.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "prettier-plugin-slidev": "^1.0.5",
+    "vite-plugin-pages": "^0.32.4"
+  }
+}
