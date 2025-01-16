@@ -504,12 +504,26 @@ This automation brings several key benefits:
 - Scales effortlessly as your content grows
 
 
+
+---
+layout: default
+---
+
+# Thank you!
+
+### @codybontecou
+### codybontecou@gmail.com
+
 <div class="absolute bottom-10">
-  <a href="https://github.com/CodyBontecou/sagemaker-huggingface" class="font-700">
-    https://github.com/CodyBontecou/sagemaker-huggingface
+  <img class="w-[200px]" src="https://i.imgur.com/o95BLp0.png" rel="nofollow" alt="qr code">
+  <a href="https://aws-technical-presentation.vercel.app/" class="text-sm font-700">
+      https://aws-technical-presentation.vercel.app/
   </a>
 </div>
 
 <div class="absolute bottom-10 right-0">
-  <img class="w-2/3" src="https://i.imgur.com/Vd35Kdx.png" rel="nofollow" alt="qr code">
+  <img class="w-[200px]" src="https://i.imgur.com/2u3JcX4.png" rel="nofollow" alt="qr code">
+  <a href="https://github.com/CodyBontecou/sagemaker-huggingface" class="text-sm font-700">
+    https://github.com/CodyBontecou/sagemaker-huggingface
+  </a>
 </div>
