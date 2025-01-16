@@ -3,8 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "prebuild": "npx tsx scripts/pre-build.ts",
-    "build": "slidev build slides/eng/slides.md",
+    "build": "slidev build",
     "export": "slidev export",
     "dev": "slidev"
   },
